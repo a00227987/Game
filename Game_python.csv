@@ -1,0 +1,21 @@
+ID,Room name,C1,C2,C3,Story,Nav,Win,Lose,Charecters
+1,Mahal,2,3,,The king sitting in the Raj Mahal was worried as he just came to know that his daughter was kidnapped by the soccerer of PatalaBhairavi. It was the prophecy that the daughter of the king will be kidnapped by a soccessor who will take away the kingdom and bring upon bad days. The prophecey also states that a young man will rescue the princess and kill the socerror. ,press 1 to go the country inn and 2 to go the forest,0,0,0
+2,countryinn,3,4,,The country inn is where people gather to discuss the events in the town. People in the inn appraised you about the soccerror and gave you some important information of his where abouts,press 1 to go the forest and 2 to go the cave,0,0,1
+3,forest,2,4,,You have entered the forest.,Press 1 to go the country inn and 2 to go the cave,0,0,0
+4,Cave,5,7,,You have enetered the cave and found two exits ,Press 1 to go to the treassure room and 2 to go to the weapons room,0,0,0
+5,treasure room,7,6,,You have entered a treasure room,Press 1 to go to weapons room and press 2 to go to collect treasure,0,0,0
+6,Collect treasure,9,7,,You can take treasure,Press 1 to go to lilliput palace and press 2 to go to weapons room,0,0,0
+7,Weapons room,8,5,,You have entered weapons room,press 1 to collect weapons press 2 to go to treasure room,0,0,0
+8,Collect weapons,10,5,,You can take weapon,press 1 to go to 3 eyed monster den and press 2 to go to treasure room,0,0,0
+9,lilliput palace,11,10,,You have entered lilliput palace,Press 1 to go to tribal temple and press 2 to go to crooked forest,0,0,0
+10,3 eyed monster den,11,12,15,You are in the den of 3 eyed monster,Press 1 to go to lilliput palace and press 2 to go to crokked forest or press 3,0,0,1
+11,Tribal Temple,13,14,12,Welcome! To the holy place of the tribals. You can get some rest and have the hospitality of the tribals and enjoy their traditional celebration of yearly festival.,Press 1 to go to glowing lake and press 2 to go to man eaters den and press 3 to go to crooked forest,0,0,0
+12,crooked forest,16,15,,You have entered the dangerous crocked forest. Choose your next choice carefully as it is a Dangerous place.,Press 1 to go to sorcerer's den or press 2,0,0,0
+13,Glowing lake,14,16,,Enjoy swimming and get healed for any injuries you have till now. Its water has the magical powers,Press 1 to go to man eaters den or press 2,0,0,1
+14,man eaters den,16,15,,You have entered into man eaters den and you can see all left over bones on the floor.,Press 1 to eneter sorcerer den or press 2,0,0,0
+15,You entered deeper into danger area  nowhere to go,,,,You have enetered man eaters den and got killed,,0,1,0
+16,sorcerer's den,18,19,20,You have enetered into socerrors den. You can fight or run,Press 2 to go to hanging bridge or press 1,0,0,0
+17,Run away from socerror,20,18,19,You ran instead of fighting and resuing the queen and got killed by entering into cursed street ,Press 1 to go to cursed street or press 2,0,1,0
+18,Killed the socerror,,,,You Killed the socerror and married the pricess!!!!!!,,1,0,0
+19,Hanging bridge,16,15,,You have entered into hanging bridge! Becareful it is dangerous,Press 1 to go to sorcerer's den or press 2,0,0,0
+20,Cursed street,12,14,16,You are in the cursed street of Amudalavalasa!!!...,Press 1 to go to crooked forest or press 2,0,0,0
